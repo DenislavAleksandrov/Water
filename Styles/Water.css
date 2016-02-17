@@ -55,7 +55,7 @@ header #logo h1{
 }
 
 header #contact{
-    background:url(http://localhost:55543/Water/Images/phone.png)no-repeat 0 5px;
+    background:url(/Images/phone.png)no-repeat 0 5px;
     float:right;
     margin-top:15px;
     padding-left:35px;
@@ -76,7 +76,7 @@ header #contact p:last-of-type {
 }
 
 #top-navigation{
-    background:url(http://localhost:55543/Water/Images/background-top-navigation.png)no-repeat;
+    background:url(/Images/background-top-navigation.png)no-repeat;
     margin-top:20px;
     padding-top:4px;
     width:100%;
@@ -134,7 +134,7 @@ ul li a{
 }
 
 #picture-slider{
-    background:url(http://localhost:55543/Water/Images/picture-slider-background.png)no-repeat 100% center ;
+    background:url(/Images/picture-slider-background.png)no-repeat 100% center ;
     background-size:100%;
     background-position:center;
     border:5px solid #FFFFFF;
@@ -285,12 +285,12 @@ aside ul{
 }
 
 aside ul li{
-    background:url(http://localhost:55543/Water/Images/white-bullet.png)no-repeat 0 3px;
+    background:url(/Images/white-bullet.png)no-repeat 0 3px;
     padding:0 0 13px 20px;   
 }
 
 aside ul li:first-of-type {
-    background: url(http://localhost:55543/Water/Images/green-bullet.png)no-repeat 0 3px;
+    background: url(/Images/green-bullet.png)no-repeat 0 3px;
     padding-left: 20px;
 }
 
@@ -320,7 +320,7 @@ aside ul li:nth-of-type(7) a {
 /* ********************** FOOTER ***************************** */
 
 footer {
-    background:url(http://localhost:55543/Water/Images/footer-background.png);
+    background:url(/Images/footer-background.png);
     border-bottom: 12px solid #C2D9EB;
     margin: -20px 0 0 0px;
     padding-top:50px;
